@@ -8,3 +8,11 @@
 * Each player having the chance can drag their striker over the empty space and whenever the user clicks the striker falls on the empty space in the column above which the user clicked. 
 * If there comes a pattern of four continuous strikers of same color either vertically,diagonally,horizontally or in a reverse diagonal way that user wins.
 
+# Modules Used
+
+* Pygame
+* Numpy
+
+# Running Game
+
+![](gif.gif)
